@@ -3,7 +3,7 @@ UI Framework for Providers to Manage API , Users and also do functionalities lik
 
 ## Installation
 
-- `git clone https://github.com/rijuvf/provider-app-ui.git`
+- `https://github.com/ingka-group-digital/provider-app-ui.git`
 - `cd provider-app-ui`
 - `npm install`
 - `npm start`
